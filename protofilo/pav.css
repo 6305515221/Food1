@@ -1,0 +1,192 @@
+#navitem {
+    color:white;
+}
+#navitem1 {
+    color:white;
+}
+
+#navitem2 {
+    color:white;
+}
+
+#navitem3 {
+    color:white;
+}
+
+#navitem4 {
+    color:white;
+}
+
+#navitem5 {
+    color:white;
+}
+
+#navitem6 {
+    color:white;
+}
+
+
+
+.threebutton {
+    background-color: white;
+}
+
+.backcol {
+    background-color: black;
+    height: 100vh;
+    width:100vw;
+}
+.profile-image {
+    
+    width: 100%;
+}
+
+.heading {
+    color: white;
+}
+
+.contact-button {
+    color:white;
+    height: 50px;
+    width: 130px;
+    background-color: #4b6cc1;
+    border-radius: 7px;
+}
+
+
+
+.factsback {
+    background-color: #323f4b;
+}
+
+.facts {
+    color:#cced00;
+    font-size: 40px;
+    font-family: roboto;
+    font-weight: 700;
+}
+
+.about-me {
+    color: white;
+    font-size: 50px;
+}
+
+.skills-card {
+    background-color: #1f2933;
+}
+
+.card-container {
+    background-color: #323f4b;
+    border-radius: 6px;
+   
+    
+
+}
+
+.container-heading {
+    color: white;
+    font-size: 24px;
+    
+}
+
+.photo-image {
+    width: 50%;
+    border-radius: 20px;
+    
+}
+
+
+.projexts-container {
+    background-color: #1f2933;
+    color: white;
+    border-radius: 20px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+.service-heading {
+    color: white;
+}
+
+.service-image {
+    
+    width: 13%;
+}
+
+.para-1 {
+    color: #9aa5b1;
+}
+
+.para-2 {
+    color: white;
+}
+
+.cursole-image {
+    width: 50%;
+}
+
+.address-container {
+    background-color: #001c32;
+}
+.address-image {
+    border-radius: 100px;
+    width:60%;
+}
+
+.icon {
+    color: #5a7184;
+}
+
+
+.para {
+    color: #9aa5b1;
+}
+
+
+
+.linear-gradient-background {
+    height: 100vh;
+    background-image: radial-gradient(blue, white);
+  }
+
+
+  
+
+.background {
+    background-color: #0d2436;
+}
+
+.image {
+    width: 70px;
+    border-radius: 40px;
+}
+
+.head-1 {
+    color: #cced00;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.icon {
+    color: #5a7184;
+}
+
+.paraf {
+    color: #9aa5b1;
+}
+
+.back {
+    background-color: #001c32;
+}
+
+
+
+
+/*foood project css*/
+
