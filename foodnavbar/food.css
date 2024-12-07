@@ -1,0 +1,121 @@
+.image {
+    height: 80px;
+    width: 70px;
+}
+
+.button {
+    background-color: white;
+    
+
+}
+
+#navitem {
+    color:black;
+}
+#navitem1 {
+    color:black;
+}
+
+#navitem2 {
+    color:black;
+}
+
+#navitem3 {
+    color:black;
+}
+
+#navitem4 {
+    color:black;
+}
+.backgroundimage{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    color: white;
+}
+
+.viewmore {
+
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 5px;
+    height: 6vh;
+    width:15vw;
+    margin-right: 10px;
+}
+.ordernow {
+    background-color: transparent;
+    color: yellow;
+    height: 6vh;
+    width:15vw;
+    margin-right: 10px;
+    border-color: yellow;
+    border-style: solid;
+    border-radius: 5px;
+
+}
+
+.cont {
+    background-color: white;
+    border-radius: 5px;
+    
+}
+
+.wcu-section {
+    background-color: wheat;
+  }
+
+
+.menusection {
+    background-color: blue;
+}
+
+.cardcontainer {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.cardimage {
+    border-radius: 20px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .freshcontainer {
+    background-color: blue;
+
+  }
+
+  .freshbutton {
+    background-color:#d0b200;
+    color: white;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+  }
+
+  .freshheading {
+    color: white;
+  }
+
+  .paymentimage {
+    height: 500px;
+    width: 700px;
+  }
+
+  .giftimage {
+    width: 270px;
+  }
+
+  .giftcontainer {
+    background-color: wheat;
+    
+  }
